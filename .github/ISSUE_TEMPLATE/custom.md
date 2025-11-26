@@ -1,0 +1,27 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+## 📝 개요 (What)
+<!-- 어떤 작업을 할 예정인지 명확하게 -->
+- 
+
+## 🎯 목적 (Why)
+<!-- 왜 이 작업을 해야 하는지 -->
+- 
+
+## 📌 작업 상세 (To-do)
+- [ ] 
+
+## 🎯 완료 조건 (Done Criteria)
+<!-- 이 조건이 충족되면 이 이슈는 완료 -->
+- [ ] 
+
+## 🔗 참고 자료
+- 관련 이슈:
+- 관련 PR:
